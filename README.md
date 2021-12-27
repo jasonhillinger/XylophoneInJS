@@ -1,5 +1,5 @@
 # XylophoneInJS
-Play a xylophone using your mouse or keyboad!
+Play a xylophone using your mouse or keyboard!
 
 Authors: Siddhesh Mishra & Jason Hillinger
 
