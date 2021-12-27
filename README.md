@@ -24,3 +24,5 @@ sound sources:
 https://bedroomproducersblog.com/2011/07/01/goldbaby-releases-hapi-vs-xylophone/
 
 keys: qwerty hjkl bnm
+
+Published Link: https://jasonhillinger.github.io/XylophoneInJS/
