@@ -65,10 +65,7 @@ document.onkeydown = function (e) {
         // When Q or q is pressed
         case "q":
         case "Q":
-            // playSound("sounds/C1.wav");
-            // buttonAnimation(Q);
-            keyPressEvent(Q, "sounds/C1.wav")
-
+            keyPressEvent(Q, "sounds/C1.wav");
             break;
 
         // When W or w is pressed
